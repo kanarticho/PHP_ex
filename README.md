@@ -1,4 +1,4 @@
-#variables 
+# Variables 
 
 $movie = 'Indiana Jones et la dernière croisade';
 
